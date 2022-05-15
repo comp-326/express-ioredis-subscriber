@@ -1,0 +1,1 @@
+# Sample subscriber module with express
